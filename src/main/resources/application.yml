@@ -1,0 +1,11 @@
+
+
+# datasource
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://119.27.167.159:3306/myweb
+    username: root
+    password: yangs
+server:
+  port: 8000
